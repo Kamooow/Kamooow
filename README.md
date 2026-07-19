@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kamooow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1" />
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Kamooow&layout=compact&theme=radical&v=1" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kamooow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&v=2" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Kamooow&layout=compact&theme=radical&v=2" />
 </div>
 
 <!--
