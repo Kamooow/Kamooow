@@ -27,8 +27,6 @@
 
 ### 📊 GitHub Stats
 
-*(Optional: We can add these dynamically updating graphs to make the profile pop)*
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamooow&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamooow&layout=compact&theme=radical" />
