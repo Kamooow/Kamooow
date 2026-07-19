@@ -12,11 +12,11 @@
 
 ---
 
-### 🏁 Featured Project: Whistl
+### 🏁 Featured Project: RefWhistle
 
-<img src="./assets/logo.png" width="150" alt="Whistl Logo">
+<img src="./assets/logo.png" width="150" alt="RefWhistle Logo">
 
-**Whistl** is a premium, real-time football (soccer) referee coaching, CRM, and incident logging web application. 
+**RefWhistle** is a premium, real-time football (soccer) referee coaching, CRM, and incident logging web application. 
 
 **Key Features:**
 - **Live Logging:** Track incidents and match events in real-time.
